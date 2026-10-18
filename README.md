@@ -45,3 +45,9 @@ open Package.swift
 ```
 
 Select `nebelkern-metal` target and press **⌘R**.
+
+---
+
+Copyright © 2026 Shikhar Thakur.
+
+Released under the MIT License — see [LICENSE](LICENSE).
